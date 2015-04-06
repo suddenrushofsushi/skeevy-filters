@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    skeevy-filters (1.0.0)
+    skeevy-filters (1.0.1)
       skeevy (~> 1.0)
       snappy
 

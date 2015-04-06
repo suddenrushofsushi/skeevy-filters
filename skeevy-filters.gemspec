@@ -4,7 +4,7 @@ require 'skeevy/filters/version'
 Gem::Specification.new do |s|
   s.name        = 'skeevy-filters'
   s.version     = Skeevy::Filters::VERSION.dup
-  s.date        = '2015-02-25'
+  s.date        = '2015-04-04'
   s.summary     = "Skeevy Filter Collection"
   s.description = "A small collection of filters for use with Skeevy"
   s.authors     = ["Craig Waterman"]
